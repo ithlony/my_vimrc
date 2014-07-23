@@ -17,7 +17,7 @@ set mouse=a
 set lines=40 columns=100
 set ruler
 set tabstop=4
-set rtp+=~/.vim/bundle/vundle/
+set rtp+=~/.vim/bundle/Vundle.vim/
 call vundle#rc()
 
 Bundle 'gmarik/vundle'
